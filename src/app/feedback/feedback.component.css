@@ -1,0 +1,18 @@
+.div {
+    float: right;
+    padding: 15px; 
+    margin-bottom: 800px;
+    color: white;
+    font-size: larger;
+  }
+  .div1{width: 1ch; 
+    text-align:center; 
+    font-size:smaller; 
+    word-wrap: 2 px;
+    color: white;
+}
+  .but1{
+      float: right;
+      background-color: red;
+      text-align:center;
+  }
